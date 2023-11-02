@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "249334367768",
+    "project_id": "authlogin-ce216",
+    "storage_bucket": "authlogin-ce216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249334367768:android:e3bf590df6361dfcdf256d",
+        "android_client_info": {
+          "package_name": "com.example.login_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7WK5xpQdunbxGJmD7nZgwlXY9adOyrbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
